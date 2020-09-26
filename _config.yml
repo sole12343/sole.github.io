@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:            Machine learning laboratory           # Site title
 name:             zhou_you           # Your name
-avatar:      D:\sole_blog\1.png       # Path to an avatar image
+avatar:      1.png      # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
